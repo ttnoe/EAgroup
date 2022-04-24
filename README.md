@@ -20,4 +20,9 @@ djgvdoipg
 3
 4
 5
+<<<<<<< HEAD
 Sarah war hier
+=======
+Julias Änderung ist da :-)
+Try it
+>>>>>>> 6daaa7a651d60d3e500479c1e9f039a826abd1c9
